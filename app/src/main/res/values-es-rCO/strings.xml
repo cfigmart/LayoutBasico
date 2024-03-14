@@ -2,4 +2,7 @@
 <resources>
     <string name="app_name">LayoutBasico</string>
     <string name="text_search">Buscar</string>
+    <string name="inversions_txt">Inversiones</string>
+    <string name="quick_yoga_txt">Yoga</string>
+    <string name="stretching_txt">Estiramiento</string>
 </resources>
